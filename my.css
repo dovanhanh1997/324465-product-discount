@@ -1,0 +1,35 @@
+#content {
+    width: 450px;
+    margin: 0 auto;
+    padding: 0px 20px 20px;
+    background: white;
+    border: 2px solid navy;
+    position: relative;
+    height: 300px;
+}
+
+h1 {
+    color: navy;
+}
+
+table {
+    width: 100%;
+    padding-right: 1em;
+    float: right;
+    position: absolute;
+    border-collapse: collapse;
+}
+#data input{
+    float: right;
+    width: 15em;
+    margin-bottom: .5em;
+
+}
+#button input{
+    float: right;
+    margin-bottom: .5em;
+
+}
+br {
+    clear: right;
+}
